@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Menu should match snapshot 1`] = `
+<div>
+  <ul
+    class="ant-menu ant-menu-root ant-menu-vertical ant-menu-light theme-menu "
+    data-menu-list="true"
+    role="menu"
+    tabindex="0"
+  >
+    <li
+      class="ant-menu-item ant-menu-item-only-child"
+      data-menu-id="rc-menu-uuid-test-key"
+      role="menuitem"
+      tabindex="-1"
+      title="test"
+    >
+      <span
+        class="ant-menu-title-content"
+      >
+        label
+      </span>
+    </li>
+  </ul>
+  <div
+    aria-hidden="true"
+    style="display: none;"
+  />
+</div>
+`;

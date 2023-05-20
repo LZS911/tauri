@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test LoginInput should match snapshot 1`] = `
+<div>
+  <div
+    class="mb-1 text-xs"
+  >
+    <span
+      class="text-xs text-black opacity-90 dark:text-white"
+    >
+      label
+    </span>
+  </div>
+  <div
+    class="flex w-full items-center border-b-2 pb-2 pl-2 border-gray-300 transition-colors"
+  >
+    <span
+      class="dark:text-white"
+    >
+      prefix
+    </span>
+    <input
+      class="ml-3 h-full w-4/5 p-2 outline-0 dark:bg-darkMode dark:text-white"
+      placeholder="this is placeholder"
+      type="text"
+      value=""
+    />
+  </div>
+</div>
+`;
+
+exports[`test LoginInput should match snapshot 2`] = `
+<div>
+  <div
+    class="mb-1 text-xs"
+  >
+    <span
+      class="text-xs text-black opacity-90 dark:text-white"
+    >
+      label
+    </span>
+  </div>
+  <div
+    class="flex w-full items-center border-b-2 pb-2 pl-2 border-primary transition-colors"
+  >
+    <span
+      class="dark:text-white"
+    >
+      prefix
+    </span>
+    <input
+      class="ml-3 h-full w-4/5 p-2 outline-0 dark:bg-darkMode dark:text-white"
+      placeholder="this is placeholder"
+      type="text"
+      value=""
+    />
+  </div>
+</div>
+`;

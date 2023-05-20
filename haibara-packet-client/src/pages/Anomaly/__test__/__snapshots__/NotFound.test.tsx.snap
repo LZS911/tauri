@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test NotFound should match snapshot 1`] = `
+<div>
+  <div
+    class="flex min-h-full flex-col items-center justify-center"
+  >
+    <img
+      class="my-20"
+      src="/static/images/not-found.png"
+    />
+    <p
+      class="text-4xl dark:text-white"
+    >
+      anomaly.notFound.title
+    </p>
+    <p
+      class="my-4 w-[30%] text-center text-sm opacity-70 dark:text-white"
+    >
+      anomaly.notFound.subTitle
+    </p>
+    <button
+      class="ant-btn ant-btn-primary theme-button-primary theme-button"
+      type="button"
+    >
+      <span>
+        anomaly.notFound.backToHome
+      </span>
+    </button>
+  </div>
+</div>
+`;

@@ -1,0 +1,19 @@
+src/**/*.test.ts
+src/**/*.test.tsx
+
+src/locale/ch-language
+src/locale/en-language
+src/api
+prettier.config.js
+node_modules
+packages/**/node_modules
+
+# config
+vite.config.ts
+tailwind.config.js
+tailwind-plugins/*
+postcss.config.js
+template-generate.js
+jest.config.js
+jest-setup.ts
+dist

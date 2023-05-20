@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Button should match snapshot 1`] = `
+<div>
+  <button
+    class="ant-btn ant-btn-default theme-button"
+    type="button"
+  >
+    <span />
+  </button>
+</div>
+`;
+
+exports[`test Button should match snapshot 2`] = `
+<div>
+  <div>
+    <button
+      class="ant-btn ant-btn-link ant-btn-dangerous theme-button-danger theme-button"
+      type="button"
+    >
+      <span>
+        changeThemeMode
+      </span>
+    </button>
+    <button
+      class="ant-btn ant-btn-primary theme-button-primary theme-button"
+      type="button"
+    >
+      <span>
+        blue
+      </span>
+    </button>
+    <button
+      class="ant-btn ant-btn-default theme-button-secondary theme-button"
+      type="button"
+    >
+      <span>
+        purple
+      </span>
+    </button>
+    <button
+      class="ant-btn ant-btn-default theme-button"
+      type="button"
+    >
+      <span>
+        green
+      </span>
+    </button>
+    <button
+      class="ant-btn ant-btn-dashed theme-button"
+      type="button"
+    >
+      <span>
+        dashed
+      </span>
+    </button>
+    <button
+      class="ant-btn ant-btn-ghost theme-button"
+      type="button"
+    >
+      <span>
+        ghost
+      </span>
+    </button>
+    <button
+      class="ant-btn ant-btn-default theme-button"
+      type="button"
+    >
+      <span>
+        default
+      </span>
+    </button>
+    <button
+      class="ant-btn ant-btn-default ant-btn-dangerous theme-button-danger theme-button"
+      type="button"
+    >
+      <span>
+        danger
+      </span>
+    </button>
+  </div>
+</div>
+`;

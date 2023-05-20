@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test useRenderCustomPlots should match snapshot 1`] = `
+Object {
+  "className": "rounded-md border border-stone-200 p-5 dark:border-stone-700 dark:bg-darkMode bg-white",
+  "color": "#1890ff",
+  "locale": "en-US",
+  "theme": "light",
+}
+`;

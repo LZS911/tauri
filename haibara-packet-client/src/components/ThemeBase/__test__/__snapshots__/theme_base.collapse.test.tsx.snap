@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Collapse should match snapshot 1`] = `
+<div>
+  <div
+    class="ant-collapse ant-collapse-icon-position-start theme-collapse "
+  />
+</div>
+`;
+
+exports[`test Collapse should match snapshot 2`] = `
+<div>
+  <div
+    class="ant-collapse-item theme-collapse-panel "
+  >
+    <div
+      aria-disabled="false"
+      aria-expanded="false"
+      class="ant-collapse-header"
+      role="button"
+      tabindex="0"
+    >
+      <div
+        class="ant-collapse-expand-icon"
+      >
+        <i
+          class="arrow"
+        />
+      </div>
+      <span
+        class="ant-collapse-header-text"
+      >
+        header
+      </span>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,4 @@
+src/pages/**/__test__/__snapshots__/*
+src/router/__test__/__snapshots__/*
+src/customHooks/**/__test__/__snapshots__/*
+src/components/**/__test__/__snapshots__/*
